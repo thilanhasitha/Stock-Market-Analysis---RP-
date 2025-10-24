@@ -21,7 +21,8 @@ Each part solves a real problem in today’s stock market tools and brings a new
 
 ## Project Architectural Diagram
 
-![alt text](image.png)
+<img width="2119" height="1568" alt="image" src="https://github.com/user-attachments/assets/46e603b4-b8d3-4602-84b8-50d228647cb1" />
+
 
 ## Dependencies List 
 
