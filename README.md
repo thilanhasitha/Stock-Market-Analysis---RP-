@@ -1,4 +1,4 @@
-# Stock-Market-Analysis---RP-
+
 # AI-Driven Decision Support Systems for Personalized and Transparent Stock Market Analysis
 
 ## Overview of the Project
