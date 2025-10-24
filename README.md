@@ -40,9 +40,9 @@ Each part solves a real problem in today’s stock market tools and brings a new
 
 ## Backend Dependencies
 
-fastapi
-uvicorn[standard]
-pandas
+fastapi,
+uvicorn[standard],
+pandas,
 numpy
 scipy
 scikit-learn
