@@ -36,4 +36,31 @@ Each part solves a real problem in today’s stock market tools and brings a new
     "react-chartjs-2": "^5.2.0",       
     "tailwindcss": "^3.4.0",          
     "clsx": "^1.2.1",                  
-    "react-router-dom": "^6.14.2"      
+    "react-router-dom": "^6.14.2"   
+
+## Backend Dependencies
+
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scipy
+scikit-learn
+torch
+tensorflow
+transformers
+openai
+yfinance
+praw
+tweepy
+requests
+pymongo
+sqlalchemy
+python-dotenv
+python-dateutil
+nltk
+spacy
+loguru
+weaviate-client
+celery[redis]
+
