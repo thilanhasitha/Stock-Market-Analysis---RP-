@@ -28,12 +28,12 @@ Each part solves a real problem in today’s stock market tools and brings a new
 
 ## Frontend Dependencies
 
-"react": "^18.2.0",
+    "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "axios": "^1.6.0",                 // For API calls to backend
-    "chart.js": "^4.3.0",              // Graphs / charts
-    "react-chartjs-2": "^5.2.0",       // React wrapper for Chart.js
-    "tailwindcss": "^3.4.0",           // Styling
-    "clsx": "^1.2.1",                  // Conditional classNames (optional)
-    "react-router-dom": "^6.14.2"      // Routing
+    "axios": "^1.6.0",                 
+    "chart.js": "^4.3.0",              
+    "react-chartjs-2": "^5.2.0",       
+    "tailwindcss": "^3.4.0",          
+    "clsx": "^1.2.1",                  
+    "react-router-dom": "^6.14.2"      
