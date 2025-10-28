@@ -1,0 +1,42 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+.env.*
+
+# Git and version control
+.git/
+.gitignore
+
+# Logs and temporary files
+*.log
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.DS_Store
+
+# OS-specific and editor files
+Thumbs.db
+.vscode/
+.idea/
+__MACOSX/
+
+# Notebooks and datasets (not needed in production image)
+notebooks/
+datasets/
+tests/
+
+# Node / Frontend files (if any accidentally copied)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Docker itself
+Dockerfile
+docker-compose.yml
